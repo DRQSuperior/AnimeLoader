@@ -1,0 +1,12 @@
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\bin\Debug\AnimeLoader.exe.config
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\bin\Debug\AnimeLoader.exe
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\bin\Debug\AnimeLoader.pdb
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\bin\Debug\Guna.UI2.dll
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.csprojAssemblyReference.cache
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.Form1.resources
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.Properties.Resources.resources
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.csproj.GenerateResource.cache
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.csproj.CoreCompileInputs.cache
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.csproj.CopyComplete
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.exe
+C:\Users\david eggins\source\repos\AnimeLoader\AnimeLoader\obj\Debug\AnimeLoader.pdb
